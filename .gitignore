@@ -1,0 +1,39 @@
+# Node
+node_modules/
+
+# Environment
+.env
+.env.local
+.env.*
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
+
+# Build
+dist/
+build/
+.next/
+out/
+
+# Coverage
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary
+tmp/
+.cache/
+
+# n8n
+n8n/.n8n
+
+# Misc
+*.sqlite
+*.db
